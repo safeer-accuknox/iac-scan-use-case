@@ -7,4 +7,6 @@ Integrate AccuKnox into the CI/CD pipeline to automatically scan the Terraform c
 ## Tools
 - Terraform for infrastructure management.
 - AccuKnox for IaC Scanning.
-- GitHub Actions as the CI/CD platform 
+- GitHub Actions as the CI/CD platform
+
+# v1
