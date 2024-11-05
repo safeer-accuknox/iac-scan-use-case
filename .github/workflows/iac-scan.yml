@@ -27,5 +27,4 @@ jobs:
           endpoint: ${{ vars.ENDPOINT }}
           tenant_id: ${{ secrets.TENANT_ID}}
           quiet: "true"
-          soft_fail: "true"
           exit_code: 1
